@@ -15,7 +15,7 @@ IR final project
 
 1. After collecting all the tokens, Build an inverted index
 
-##Clustering
+## Clustering
 1. Load the weighted data from previous HW
 2. Perform k means clustering on them
 
